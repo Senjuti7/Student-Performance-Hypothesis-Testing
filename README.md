@@ -5,7 +5,7 @@
 - This project analyzes student academic performance using exploratory data analysis (EDA), visualization, correlation analysis, and hypothesis testing.
 - The objective is to identify factors affecting student scores and derive meaningful educational insights using statistical techniques.
 
-  ## Business Problem
+## Business Problem
 
 Educational institutions aim to improve student performance and understand factors influencing academic outcomes.
 This project investigates whether variables such as gender, lunch type, and test preparation courses significantly impact student scores.
@@ -31,7 +31,7 @@ The dataset contains:
 - Scipy
 - Jupyter Notebook
 
-  ## Key Analysis Performed
+## Key Analysis Performed
 
 - Data Cleaning
 - Feature Engineering
